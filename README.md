@@ -8,7 +8,7 @@ METRICS
 TRAIN-VAL
 ![train-val](https://user-images.githubusercontent.com/54250257/211114390-7877e456-f4be-4231-9d33-224de3e430b1.png)
 
-#INICIO README yolov5-deepsparse-blogpost
+# INICIO README yolov5-deepsparse-blogpost
 
 # Supercharging YOLOv5: How I Got 182.4 FPS Inference Without a GPU
 ![image](https://dicksonneoh.com/images/portfolio/supercharging_yolov5/post_image.png)
