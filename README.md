@@ -1,3 +1,15 @@
+
+# Resultados Urban Dataset YOLOV5 vs YOLOv5-Nano (Pruned + Quantized)
+Los resultados pueden visualizarse en [Google Colab](https://colab.research.google.com/drive/16T9fXcO1W2p1yLk0Adh8kA0jm7MDDmAO?usp=sharing)
+
+METRICS
+![metrics](https://user-images.githubusercontent.com/54250257/211114381-3281e0c8-84f0-45de-82e9-bbdff564c8c5.png)
+
+TRAIN-VAL
+![train-val](https://user-images.githubusercontent.com/54250257/211114390-7877e456-f4be-4231-9d33-224de3e430b1.png)
+
+#INICIO README yolov5-deepsparse-blogpost
+
 # Supercharging YOLOv5: How I Got 182.4 FPS Inference Without a GPU
 ![image](https://dicksonneoh.com/images/portfolio/supercharging_yolov5/post_image.png)
 
